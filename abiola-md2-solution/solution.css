@@ -1,1 +1,18 @@
+body {
+	background-color: lightblue;
+	font-size: 130%;
+}
 
+section {
+	color: black;
+}
+
+h1 {
+	color: black;
+	text-decoration: underline;
+	text-indent: inherit;
+}
+
+p {
+	text-align: right 200px;
+}
