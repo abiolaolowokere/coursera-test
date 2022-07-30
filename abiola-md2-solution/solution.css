@@ -1,18 +1,17 @@
-body {
-	background-color: lightblue;
-	font-size: 130%;
+* {
+  box-sizing: border-box;
 }
-
-section {
-	color: black;
-}
-
 h1 {
-	color: black;
-	text-decoration: underline;
-	text-indent: inherit;
+  margin-bottom: 15px;
 }
 
 p {
-	text-align: right 200px;
+  border: 1px solid black;
+  background-color: #A52A2A;
+  width: 90%;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  color: white;
 }
